@@ -24,7 +24,7 @@ How to Run
 3)Follow the on-screen instructions to register a PIN and use ATM features.
 
 
-
+____________________________________________________________________________________________________________________________________________________________________________
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -34,7 +34,7 @@ This is a simple Java console-based application that takes input for **5 student
 
 ---
 
-## ✅ Features
+## Features
 
 - Input student name and marks in:
   - Math
@@ -50,7 +50,7 @@ This is a simple Java console-based application that takes input for **5 student
 
 ---
 
-## 📊 Grading System
+## Grading System
 
 | Percentage Range | Grade  |
 |------------------|--------|
