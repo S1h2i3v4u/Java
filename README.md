@@ -63,7 +63,7 @@ This is a simple Java console-based application that takes input from** students
 
 ---
 
-## 🛠 How to Run
+## How to Run
 
 1. Make sure you have **Java installed** on your machine.
 2. Save the file as `Grade.java` inside a folder (e.g., `mit` package).
