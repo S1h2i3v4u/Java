@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 2. Grade Card Generator (Java)
 
-This is a simple Java console-based application that takes input for **5 students**, including their **names and marks** in 5 subjects, calculates their **total marks**, **percentage**, and displays the **grade card**.
+This is a simple Java console-based application that takes input from** students**, including their **names and marks** in 5 subjects, calculates their **total marks**, **percentage**, and displays the **grade card**.
 
 ---
 
