@@ -1,4 +1,5 @@
 package mit;
+//This is a simple Java console-based application that takes input from students, including their names and marks in 5 subjects, calculates their total marks, percentage, and displays the grade card.
 import java.util.*;
 public class Grade {
 
