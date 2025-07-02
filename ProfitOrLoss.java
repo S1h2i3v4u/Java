@@ -1,5 +1,14 @@
 package mit;
 
+/*
+Calculates:
+Profit if SP > CP
+Loss if CP > SP
+No Profit No Loss if SP == CP
+
+Simple and easy-to-understand logic using if-else conditions
+*/
+
 public class profit {
 
 	public static void main(String[] args) {
