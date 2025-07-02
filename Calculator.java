@@ -1,6 +1,6 @@
 package mit;
 import java.util.*;
-
+//A simple Java console-based calculator that performs basic arithmetic operations like Addition, Subtraction, Multiplication, Division, and Modulus using a menu-driven approach.
 public class Menu {
 
 	public static void main(String[] args) {
