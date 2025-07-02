@@ -1,5 +1,8 @@
 package mit;
 
+//converts temperature from Celsius to Fahrenheit using the standard conversion formula.
+//[Fahrenheit = (Celsius × 9/5) + 32]
+
 import java.util.Scanner;
 
 public class temperature {
