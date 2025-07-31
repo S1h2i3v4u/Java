@@ -45,7 +45,8 @@ public class Math_Function {
 		
 		System.out.println("---------------------");
 		for (int i=0; i<5;i++) {                  //5 random number between 0 to 100
-			double random = Math.random() * 100;
+			// double random = Math.random() * 100;
+			int random = (int) Math.round(Math.random() * 100);
 			System.out.println(random);
 		}
 		System.out.println("*************************************");
